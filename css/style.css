@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding: 0;
     font-size: 14px;
+    color: rgb(70, 68, 68);
 }
 header{
     width: 100%;
@@ -47,6 +48,11 @@ header{
 }
 .corp{
     padding-top: 80px;
+}
+h3{
+    color: rgb(62, 62, 240);
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .footer{
     background-color: rgba(0, 0, 0, 0.979);
@@ -112,6 +118,10 @@ body::-webkit-scrollbar-button{
 }
 header h1{
     text-align: center;
+}
+a{
+    color: red;
+    font-size: 16px;
 }
 header div{
     float: right;
